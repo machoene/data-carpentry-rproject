@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536047814938.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1381184340",
+    "id" : "CAE653C0",
+    "lastKnownWriteTime" : 1536071754,
+    "last_content_update" : 1536071754463,
+    "path" : "C:/Users/allen.choshi/Desktop/Data-carpentry/Code-handout.R",
+    "project_path" : "Code-handout.R",
+    "properties" : {
+        "cursorPosition" : "19,141",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

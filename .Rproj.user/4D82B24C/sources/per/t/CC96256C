@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536062853166.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2982679179",
+    "id" : "CC96256C",
+    "lastKnownWriteTime" : 1536071754,
+    "last_content_update" : 1536071754595,
+    "path" : "C:/Users/allen.choshi/Desktop/Data-carpentry/data-anylysis.R",
+    "project_path" : "data-anylysis.R",
+    "properties" : {
+        "cursorPosition" : "78,0",
+        "scrollLine" : "61",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
